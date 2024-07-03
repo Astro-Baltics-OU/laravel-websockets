@@ -30,7 +30,6 @@
     ],
     "require": {
         "php": "8.*",
-        "cboden/ratchet": "^0.4.4",
         "clue/block-react": "^1.5",
         "clue/redis-react": "^2.6",
         "doctrine/dbal": "^3",
