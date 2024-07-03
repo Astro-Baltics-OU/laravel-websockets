@@ -56,6 +56,12 @@
         "phpunit/phpunit": "^9.0",
         "ratchet/pawl": "^0.3.5"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/alpinadigital/ratchet"
+        }
+    ],
     "suggest": {
         "ext-pcntl": "Running the server needs pcntl to listen to command signals and soft-shutdown.",
         "doctrine/dbal": "Required to run database migrations (^2.9|^3.0)."
