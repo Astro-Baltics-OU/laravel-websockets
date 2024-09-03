@@ -30,7 +30,7 @@
     ],
     "require": {
         "php": "8.*",
-        "alpinadigital/ratchet": "dev-master",
+        "madisjkr/ratchet": "dev-master",
         "clue/block-react": "^1.5",
         "clue/redis-react": "^2.6",
         "doctrine/dbal": "^3",
