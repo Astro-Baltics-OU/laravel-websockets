@@ -59,7 +59,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/alpinadigital/ratchet"
+            "url": "https://github.com/madisjkr/ratchet"
         }
     ],
     "suggest": {
