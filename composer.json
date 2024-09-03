@@ -1,5 +1,5 @@
 {
-    "name": "madisjkr/laravel-websockets",
+    "name": "astro-baltics-ou/laravel-websockets",
     "description": "An easy to launch a Pusher-compatible WebSockets server for Laravel.",
     "keywords": [
         "beyondcode",
@@ -30,7 +30,7 @@
     ],
     "require": {
         "php": "8.*",
-        "madisjkr/ratchet": "dev-master",
+        "astro-baltics-ou/ratchet": "dev-master",
         "clue/block-react": "^1.5",
         "clue/redis-react": "^2.6",
         "doctrine/dbal": "^3",
@@ -59,7 +59,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/madisjkr/ratchet"
+            "url": "https://github.com/astro-baltics-ou/ratchet"
         }
     ],
     "suggest": {
